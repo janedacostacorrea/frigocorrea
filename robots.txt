@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.frigorificocorrea.com.br/sitemap.xml
+Sitemap: https://frigorificocorrea.com.br/sitemap.xml
